@@ -1,0 +1,107 @@
+﻿MetaVersion: 1
+MarketplaceDetails {
+  Id: "2f132e24af404703b3ea6c08c565aa67"
+  OwnerAccountId: "8bae16130a9f4e16b347ad0b75e34ef3"
+  OwnerName: "DaveSkulina"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 307406115803496087
+  value: 16894382285209480404
+}
+AssetIdsOriginalToNew {
+  key: 440168262593430639
+  value: 7038600381048817516
+}
+AssetIdsOriginalToNew {
+  key: 1683114021203363022
+  value: 14826947694650071420
+}
+AssetIdsOriginalToNew {
+  key: 2472577150731722024
+  value: 11659556892459675357
+}
+AssetIdsOriginalToNew {
+  key: 3144871937647846964
+  value: 13148286502667030426
+}
+AssetIdsOriginalToNew {
+  key: 6379257716595703618
+  value: 533521117202836510
+}
+AssetIdsOriginalToNew {
+  key: 6652974207271369531
+  value: 3667422135550924670
+}
+AssetIdsOriginalToNew {
+  key: 6795206535065158887
+  value: 7219228161138246149
+}
+AssetIdsOriginalToNew {
+  key: 8163343952479535019
+  value: 6038254172531542794
+}
+AssetIdsOriginalToNew {
+  key: 8459825612529451237
+  value: 12312547684017637917
+}
+AssetIdsOriginalToNew {
+  key: 9023864673320310867
+  value: 3661815098472784431
+}
+AssetIdsOriginalToNew {
+  key: 9654009968499969690
+  value: 3780317085867260533
+}
+AssetIdsOriginalToNew {
+  key: 10139659402558168400
+  value: 15974491303522853665
+}
+AssetIdsOriginalToNew {
+  key: 10455056561494996403
+  value: 6746049093421138438
+}
+AssetIdsOriginalToNew {
+  key: 11295713562413766758
+  value: 754189103814568013
+}
+AssetIdsOriginalToNew {
+  key: 11481617001287633814
+  value: 2499624211995264451
+}
+AssetIdsOriginalToNew {
+  key: 12210489528647249200
+  value: 4708040021009900439
+}
+AssetIdsOriginalToNew {
+  key: 15515637826283224864
+  value: 12073010560678520440
+}
+AssetIdsOriginalToNew {
+  key: 15728676179772725900
+  value: 6011484190579845893
+}
+AssetIdsOriginalToNew {
+  key: 16064653477604779480
+  value: 17735705027710026253
+}
+AssetIdsOriginalToNew {
+  key: 16313312156352177803
+  value: 17826102364414625074
+}
+AssetIdsOriginalToNew {
+  key: 16821157952626857457
+  value: 12486596294230057457
+}
+AssetIdsOriginalToNew {
+  key: 16975801195317677333
+  value: 4344545261342929346
+}
+AssetIdsOriginalToNew {
+  key: 17169051963161242240
+  value: 15840241005732938110
+}
+AssetIdsOriginalToNew {
+  key: 17229066248892506112
+  value: 9196671651514348911
+}
