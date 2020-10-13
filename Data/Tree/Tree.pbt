@@ -21,6 +21,7 @@ Objects {
   ChildIds: 14982843161775482339
   ChildIds: 6482560510501574825
   ChildIds: 14762863519307789259
+  ChildIds: 6502082201129727993
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30,6 +31,32 @@ Objects {
     Value: "mc:evisibilitysetting:forceon"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 6502082201129727993
+  Name: "Blaine"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Blaine"
   }
 }
 Objects {
