@@ -23,11 +23,15 @@ Objects {
   ChildIds: 14762863519307789259
   ChildIds: 6502082201129727993
   ChildIds: 1616223258322819291
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   ChildIds: 1264353714648167105
 =======
   ChildIds: 12182616168217253544
 >>>>>>> Stashed changes
+=======
+  ChildIds: 1264353714648167105
+>>>>>>> parent of beac049... Holiday
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -40,7 +44,10 @@ Objects {
   }
 }
 Objects {
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of beac049... Holiday
   Id: 1264353714648167105
   Name: "Kait"
   Transform {
@@ -48,11 +55,14 @@ Objects {
     }
     Rotation {
     }
+<<<<<<< HEAD
 =======
   Id: 12182616168217253544
   Name: "HighRise1"
   Transform {
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of beac049... Holiday
     Scale {
       X: 1
       Y: 1
@@ -60,7 +70,10 @@ Objects {
     }
   }
   ParentId: 4781671109827199097
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of beac049... Holiday
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -70,6 +83,7 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Kait"
+<<<<<<< HEAD
 =======
   TemplateInstance {
     ParameterOverrideMap {
@@ -106,6 +120,8 @@ Objects {
       Id: 15059985811462855546
     }
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of beac049... Holiday
   }
 }
 Objects {

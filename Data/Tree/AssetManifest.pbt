@@ -53,30 +53,12 @@ Assets {
   }
 }
 Assets {
-  Id: 16211703508873904049
-  Name: "Decal Vines End 01"
-  PlatformAssetType: 14
-  PrimaryAsset {
-    AssetType: "DecalBlueprintAssetRef"
-    AssetId: "bp_decal_liane_002"
-  }
-}
-Assets {
   Id: 16132958878921067135
   Name: "Sign Bracket - Square"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_signbracket_square_001"
-  }
-}
-Assets {
-  Id: 15771582733110086314
-  Name: "Decal Stains Top 01"
-  PlatformAssetType: 14
-  PrimaryAsset {
-    AssetType: "DecalBlueprintAssetRef"
-    AssetId: "bp_decal_stain_top_001"
   }
 }
 Assets {
@@ -125,24 +107,6 @@ Assets {
   }
 }
 Assets {
-  Id: 14445239434050538525
-  Name: "Decal Moss Patch"
-  PlatformAssetType: 14
-  PrimaryAsset {
-    AssetType: "DecalBlueprintAssetRef"
-    AssetId: "bp_decal_moss_patch_001"
-  }
-}
-Assets {
-  Id: 14272986521887390608
-  Name: "Decal Road Sign Symbols"
-  PlatformAssetType: 14
-  PrimaryAsset {
-    AssetType: "DecalBlueprintAssetRef"
-    AssetId: "bp_decal_roadsigns_001"
-  }
-}
-Assets {
   Id: 12095835209017042614
   Name: "Cube"
   PlatformAssetType: 1
@@ -188,15 +152,6 @@ Assets {
   }
 }
 Assets {
-  Id: 11240515712669307517
-  Name: "Decal Soil Cracks Smal Variants 02"
-  PlatformAssetType: 14
-  PrimaryAsset {
-    AssetType: "DecalBlueprintAssetRef"
-    AssetId: "bp_decal_soil_cracks_002"
-  }
-}
-Assets {
   Id: 11125396852631323883
   Name: "Flower Bellflower 02"
   PlatformAssetType: 1
@@ -206,30 +161,12 @@ Assets {
   }
 }
 Assets {
-  Id: 10785358355987965480
-  Name: "Decal Stains Round 01"
-  PlatformAssetType: 14
-  PrimaryAsset {
-    AssetType: "DecalBlueprintAssetRef"
-    AssetId: "bp_decal_stain_round_001"
-  }
-}
-Assets {
   Id: 10108902645675923852
   Name: "Grass Short"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_grass_generic_002"
-  }
-}
-Assets {
-  Id: 9927074984859127937
-  Name: "Decal Leaves 02"
-  PlatformAssetType: 14
-  PrimaryAsset {
-    AssetType: "DecalBlueprintAssetRef"
-    AssetId: "bp_decal_leaves_002"
   }
 }
 Assets {
@@ -323,15 +260,6 @@ Assets {
   }
 }
 Assets {
-  Id: 6206811567742362013
-  Name: "Decal Leaves 01"
-  PlatformAssetType: 14
-  PrimaryAsset {
-    AssetType: "DecalBlueprintAssetRef"
-    AssetId: "bp_decal_leaves_001"
-  }
-}
-Assets {
   Id: 6182144535646158109
   Name: "Bush Leafy Low 01"
   PlatformAssetType: 1
@@ -386,15 +314,6 @@ Assets {
   }
 }
 Assets {
-  Id: 3542874899948251836
-  Name: "Decal Soil Cracks Big 01"
-  PlatformAssetType: 14
-  PrimaryAsset {
-    AssetType: "DecalBlueprintAssetRef"
-    AssetId: "bp_decal_soil_cracks_001"
-  }
-}
-Assets {
   Id: 3364899095460072080
   Name: "Barrier Concrete 01"
   PlatformAssetType: 1
@@ -428,14 +347,5 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_fire_hydrant_001"
-  }
-}
-Assets {
-  Id: 29140249560822901
-  Name: "Decal Stains Bottom 01"
-  PlatformAssetType: 14
-  PrimaryAsset {
-    AssetType: "DecalBlueprintAssetRef"
-    AssetId: "bp_decal_stain_bottom_001"
   }
 }
