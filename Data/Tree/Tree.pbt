@@ -23,7 +23,11 @@ Objects {
   ChildIds: 14762863519307789259
   ChildIds: 6502082201129727993
   ChildIds: 1616223258322819291
+<<<<<<< Updated upstream
   ChildIds: 1264353714648167105
+=======
+  ChildIds: 12182616168217253544
+>>>>>>> Stashed changes
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -36,6 +40,7 @@ Objects {
   }
 }
 Objects {
+<<<<<<< Updated upstream
   Id: 1264353714648167105
   Name: "Kait"
   Transform {
@@ -43,6 +48,11 @@ Objects {
     }
     Rotation {
     }
+=======
+  Id: 12182616168217253544
+  Name: "HighRise1"
+  Transform {
+>>>>>>> Stashed changes
     Scale {
       X: 1
       Y: 1
@@ -50,6 +60,7 @@ Objects {
     }
   }
   ParentId: 4781671109827199097
+<<<<<<< Updated upstream
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -59,6 +70,42 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Kait"
+=======
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6870700652074008170
+      value {
+        Overrides {
+          Name: "Name"
+          String: "HighRise1"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 210.49707
+            Y: 2386.31641
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.642549396
+            Y: 0.642549396
+            Z: 0.642549396
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 15059985811462855546
+    }
+>>>>>>> Stashed changes
   }
 }
 Objects {
@@ -1359,6 +1406,7 @@ Objects {
   ChildIds: 13586404989561045285
   ChildIds: 15689873455123322786
   ChildIds: 12779493521609554359
+  ChildIds: 662057631529538396
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1367,6 +1415,73 @@ Objects {
   }
   Folder {
     IsGroup: true
+  }
+}
+Objects {
+  Id: 662057631529538396
+  Name: "GADIG_KingBurger"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18356335688359723660
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2933231784935716077
+      value {
+        Overrides {
+          Name: "Name"
+          String: "GADIG_KingBurger"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -281.039429
+            Y: 2954.79858
+            Z: -1138.45032
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.25
+            Y: 1.25
+            Z: 1.25
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3138918751516833462
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 45
+            Y: -765
+            Z: 895
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+            Roll: 89.9999771
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 126020406320455500
+    }
   }
 }
 Objects {
